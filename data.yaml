@@ -1,0 +1,11 @@
+names:
+- Apple
+- Banana
+- Grape
+- Orange
+- Pineapple
+- Watermelon
+nc: 6
+test: ../test/images
+train: ../train/images
+val: ../valid/images
